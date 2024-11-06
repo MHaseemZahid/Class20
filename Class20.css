@@ -1,9 +1,13 @@
-/* navbar   
-carousel
-4 cards
+/* navbar   done
+carousel done
+4 cards 
 modal
 drawer
 form 
 10 icons
 10 animation
 github + live */
+.cardflax{
+    display: flex;
+    justify-content: space-between;
+}
